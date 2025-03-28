@@ -6,7 +6,7 @@ This report present the domain model for House Renting, which includes glossary 
 
 ## Glossary of Domain's Terms
 
-![Practicals/Practical_4/image](<image/Domain_model.png>)
+![alt text](image/Domain_Model.png)
 
 ### **1. User Management Domain**  
 
